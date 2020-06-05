@@ -20,6 +20,6 @@ services:
     container_name: grafana
     image: grafana/grafana
     ports:
-     - "9091:3000"
+     - "9092:3000"
     depends_on:
       - prom
