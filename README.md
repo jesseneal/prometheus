@@ -1,2 +1,2 @@
 # prometheus
-This is a work and process and mainly just an exporter for a linux server I run at my house
+This is a work and process and mainly just Prometheus, Grafana, and an export for my monitoring server.
